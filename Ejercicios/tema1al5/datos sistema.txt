@@ -1,0 +1,3 @@
+Nombre maquina: alex
+TiempoEncendida: 16238724 ms
+Version: 3.1.2

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/tema5c.csproj": {}
+    "/home/alex/Escritorio/FormacionBeSoft/Ejercicio02/FormacionBeSoftware/Ejercicio02.csproj": {}
   },
   "projects": {
-    "/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/tema5c.csproj": {
+    "/home/alex/Escritorio/FormacionBeSoft/Ejercicio02/FormacionBeSoftware/Ejercicio02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/tema5c.csproj",
-        "projectName": "tema5c",
-        "projectPath": "/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/tema5c.csproj",
+        "projectUniqueName": "/home/alex/Escritorio/FormacionBeSoft/Ejercicio02/FormacionBeSoftware/Ejercicio02.csproj",
+        "projectName": "Ejercicio02",
+        "projectPath": "/home/alex/Escritorio/FormacionBeSoft/Ejercicio02/FormacionBeSoftware/Ejercicio02.csproj",
         "packagesPath": "/home/alex/.nuget/packages/",
-        "outputPath": "/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/obj/",
+        "outputPath": "/home/alex/Escritorio/FormacionBeSoft/Ejercicio02/FormacionBeSoftware/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/alex/.nuget/NuGet/NuGet.Config"
