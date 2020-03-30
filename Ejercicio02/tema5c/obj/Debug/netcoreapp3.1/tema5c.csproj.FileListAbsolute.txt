@@ -1,0 +1,11 @@
+/home/alex/Escritorio/FormacionBeSoft/Ejercicio02/tema5c/obj/Debug/netcoreapp3.1/tema5c.csprojAssemblyReference.cache
+/home/alex/Escritorio/FormacionBeSoft/Ejercicio02/tema5c/obj/Debug/netcoreapp3.1/tema5c.csproj.CoreCompileInputs.cache
+/home/alex/Escritorio/FormacionBeSoft/Ejercicio02/tema5c/bin/Debug/netcoreapp3.1/tema5c
+/home/alex/Escritorio/FormacionBeSoft/Ejercicio02/tema5c/bin/Debug/netcoreapp3.1/tema5c.deps.json
+/home/alex/Escritorio/FormacionBeSoft/Ejercicio02/tema5c/bin/Debug/netcoreapp3.1/tema5c.runtimeconfig.json
+/home/alex/Escritorio/FormacionBeSoft/Ejercicio02/tema5c/bin/Debug/netcoreapp3.1/tema5c.runtimeconfig.dev.json
+/home/alex/Escritorio/FormacionBeSoft/Ejercicio02/tema5c/bin/Debug/netcoreapp3.1/tema5c.dll
+/home/alex/Escritorio/FormacionBeSoft/Ejercicio02/tema5c/bin/Debug/netcoreapp3.1/tema5c.pdb
+/home/alex/Escritorio/FormacionBeSoft/Ejercicio02/tema5c/obj/Debug/netcoreapp3.1/tema5c.dll
+/home/alex/Escritorio/FormacionBeSoft/Ejercicio02/tema5c/obj/Debug/netcoreapp3.1/tema5c.pdb
+/home/alex/Escritorio/FormacionBeSoft/Ejercicio02/tema5c/obj/Debug/netcoreapp3.1/tema5c.genruntimeconfig.cache

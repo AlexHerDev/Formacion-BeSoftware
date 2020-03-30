@@ -1,0 +1,9 @@
+/home/alex/Escritorio/FormacionBeSoft/Ejercicio02/tema5c/classlib/bin/Debug/netstandard2.0/classlib.deps.json
+/home/alex/Escritorio/FormacionBeSoft/Ejercicio02/tema5c/classlib/bin/Debug/netstandard2.0/classlib.dll
+/home/alex/Escritorio/FormacionBeSoft/Ejercicio02/tema5c/classlib/bin/Debug/netstandard2.0/classlib.pdb
+/home/alex/Escritorio/FormacionBeSoft/Ejercicio02/tema5c/classlib/obj/Debug/netstandard2.0/classlib.csprojAssemblyReference.cache
+/home/alex/Escritorio/FormacionBeSoft/Ejercicio02/tema5c/classlib/obj/Debug/netstandard2.0/classlib.csproj.CoreCompileInputs.cache
+/home/alex/Escritorio/FormacionBeSoft/Ejercicio02/tema5c/classlib/obj/Debug/netstandard2.0/classlib.AssemblyInfoInputs.cache
+/home/alex/Escritorio/FormacionBeSoft/Ejercicio02/tema5c/classlib/obj/Debug/netstandard2.0/classlib.AssemblyInfo.cs
+/home/alex/Escritorio/FormacionBeSoft/Ejercicio02/tema5c/classlib/obj/Debug/netstandard2.0/classlib.dll
+/home/alex/Escritorio/FormacionBeSoft/Ejercicio02/tema5c/classlib/obj/Debug/netstandard2.0/classlib.pdb

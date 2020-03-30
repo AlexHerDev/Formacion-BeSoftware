@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4nE/RmGKmdRbqbPFQcgZemSQlj71weq0q+N572g2aUma4G3se6U1ZP8DMrFSHxklfzyVJhAcmKKDrAH3XpuELg==",
+  "success": true,
+  "projectFilePath": "/home/alex/Escritorio/FormacionBeSoft/Ejercicio02/tema5c/classlib/classlib.csproj",
+  "expectedPackageFiles": [
+    "/home/alex/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/alex/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
