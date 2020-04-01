@@ -11,21 +11,31 @@ namespace genProjectLib
     {
         private string nombreProyecto;
         private string nombreArchClases; 
+        private string rutaProyecto; 
+        private string rutaClassLib; 
         private string currentPath = "./"; 
 
         public GeneradorPro(string nombreProyecto, string nombreArchClases = null)
         {
+            //Aquí podría contruir la ruta completa directamente 
             this.nombreProyecto = nombreProyecto; 
             this.nombreArchClases = nombreArchClases;
+        
+            this.rutaProyecto = nombreProyecto;
+            
+            if(nombreArchClases != null)
+            {
+                this.rutaClassLib = nombreProyecto + "/" + nombreArchClases + "Lib";
+            }
         }
 
         public void creaCarpetasIniciales()
         {
-            Directory.CreateDirectory(currentPath + nombreProyecto); 
+            Directory.CreateDirectory(currentPath + rutaProyecto); 
             
             if(nombreArchClases != null)
             {
-                Directory.CreateDirectory(currentPath + nombreProyecto + "/" + nombreArchClases + "Lib");           
+                Directory.CreateDirectory(currentPath + rutaClassLib);           
             }                   
         }
 
@@ -37,7 +47,7 @@ namespace genProjectLib
             {   
                 ProcessStartInfo proc_start_info = new ProcessStartInfo();
                 proc_start_info.FileName = "bash";
-                proc_start_info.Arguments = "scriptNewConsole " + nombreProyecto;
+                proc_start_info.Arguments = "scriptNewConsole " + rutaProyecto;
                 // -c allows to wait the command to be execute and exit
 
                 proc_start_info.RedirectStandardOutput = true; //cambiar a true para que no salga nada 
@@ -60,7 +70,7 @@ namespace genProjectLib
                     //en lib, lanzar "dotnet new classLib" 
                     ProcessStartInfo proc_start_info = new ProcessStartInfo();
                     proc_start_info.FileName = "bash";
-                    proc_start_info.Arguments = "scriptNewLib " + nombreProyecto + "/" + nombreArchClases + "Lib";
+                    proc_start_info.Arguments = "scriptNewLib " + rutaClassLib;
                     // -c allows to wait the command to be execute and exit
 
                     proc_start_info.RedirectStandardOutput = true; //cambiar a true para que no salga nada 
