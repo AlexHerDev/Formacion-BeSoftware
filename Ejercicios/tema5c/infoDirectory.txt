@@ -1,0 +1,73 @@
+./bin
+./vendlib
+./vendlib/VendedorPart2.cs, EXT:.cs, TAM:405 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/vendlib/VendedorPart2.cs
+./vendlib/VendedorPar1.cs, EXT:.cs, TAM:1358 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/vendlib/VendedorPar1.cs
+./.vscode
+./.vscode/tasks.json, EXT:.json, TAM:1205 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/.vscode/tasks.json
+./.vscode/launch.json, EXT:.json, TAM:1080 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/.vscode/launch.json
+./obj
+./obj/tema5c.csproj.nuget.g.targets, EXT:.targets, TAM:289 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/obj/tema5c.csproj.nuget.g.targets
+./obj/tema5c.csproj.nuget.dgspec.json, EXT:.json, TAM:1687 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/obj/tema5c.csproj.nuget.dgspec.json
+./obj/project.nuget.cache, EXT:.cache, TAM:283 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/obj/project.nuget.cache
+./obj/tema5c.csproj.nuget.g.props, EXT:.props, TAM:1096 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/obj/tema5c.csproj.nuget.g.props
+./obj/project.assets.json, EXT:.json, TAM:1620 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/obj/project.assets.json
+./classlib
+./classlib/Gastropodo.cs, EXT:.cs, TAM:527 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/classlib/Gastropodo.cs
+./classlib/Mamifero.cs, EXT:.cs, TAM:466 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/classlib/Mamifero.cs
+./classlib/Coche.cs, EXT:.cs, TAM:926 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/classlib/Coche.cs
+./classlib/Suma.cs, EXT:.cs, TAM:359 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/classlib/Suma.cs
+./classlib/Persona.cs, EXT:.cs, TAM:614 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/classlib/Persona.cs
+./classlib/classlib.csproj, EXT:.csproj, TAM:145 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/classlib/classlib.csproj
+./classlib/Revista.cs, EXT:.cs, TAM:494 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/classlib/Revista.cs
+./classlib/Cubo.cs, EXT:.cs, TAM:533 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/classlib/Cubo.cs
+./classlib/Localizador.cs, EXT:.cs, TAM:1887 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/classlib/Localizador.cs
+./classlib/Animal.cs, EXT:.cs, TAM:446 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/classlib/Animal.cs
+./classlib/Operaciones.cs, EXT:.cs, TAM:955 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/classlib/Operaciones.cs
+./classlib/Can.cs, EXT:.cs, TAM:514 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/classlib/Can.cs
+./classlib/Molusco.cs, EXT:.cs, TAM:474 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/classlib/Molusco.cs
+./classlib/Trabajador.cs, EXT:.cs, TAM:470 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/classlib/Trabajador.cs
+./classlib/Multiplicacion.cs, EXT:.cs, TAM:386 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/classlib/Multiplicacion.cs
+./classlib/Resta.cs, EXT:.cs, TAM:358 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/classlib/Resta.cs
+./classlib/Libro.cs, EXT:.cs, TAM:381 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/classlib/Libro.cs
+./rastLib
+./rastLib/Rastreador.cs, EXT:.cs, TAM:2614 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/rastLib/Rastreador.cs
+./bin/Debug
+./obj/Debug
+./classlib/bin
+./classlib/obj
+./classlib/obj/classlib.csproj.nuget.g.props, EXT:.props, TAM:1096 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/classlib/obj/classlib.csproj.nuget.g.props
+./classlib/obj/classlib.csproj.nuget.g.targets, EXT:.targets, TAM:615 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/classlib/obj/classlib.csproj.nuget.g.targets
+./classlib/obj/classlib.csproj.nuget.dgspec.json, EXT:.json, TAM:1853 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/classlib/obj/classlib.csproj.nuget.dgspec.json
+./classlib/obj/project.nuget.cache, EXT:.cache, TAM:511 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/classlib/obj/project.nuget.cache
+./classlib/obj/project.assets.json, EXT:.json, TAM:10937 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/classlib/obj/project.assets.json
+./bin/Debug/netcoreapp3.1
+./bin/Debug/netcoreapp3.1/tema5c, EXT:, TAM:86424 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/bin/Debug/netcoreapp3.1/tema5c
+./bin/Debug/netcoreapp3.1/tema5c.deps.json, EXT:.json, TAM:388 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/bin/Debug/netcoreapp3.1/tema5c.deps.json
+./bin/Debug/netcoreapp3.1/tema5c.pdb, EXT:.pdb, TAM:6240 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/bin/Debug/netcoreapp3.1/tema5c.pdb
+./bin/Debug/netcoreapp3.1/tema5c.dll, EXT:.dll, TAM:14848 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/bin/Debug/netcoreapp3.1/tema5c.dll
+./bin/Debug/netcoreapp3.1/tema5c.runtimeconfig.json, EXT:.json, TAM:146 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/bin/Debug/netcoreapp3.1/tema5c.runtimeconfig.json
+./bin/Debug/netcoreapp3.1/tema5c.runtimeconfig.dev.json, EXT:.json, TAM:149 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/bin/Debug/netcoreapp3.1/tema5c.runtimeconfig.dev.json
+./obj/Debug/netcoreapp3.1
+./obj/Debug/netcoreapp3.1/tema5c, EXT:, TAM:86424 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/obj/Debug/netcoreapp3.1/tema5c
+./obj/Debug/netcoreapp3.1/tema5c.assets.cache, EXT:.cache, TAM:136 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/obj/Debug/netcoreapp3.1/tema5c.assets.cache
+./obj/Debug/netcoreapp3.1/tema5c.csproj.CoreCompileInputs.cache, EXT:.cache, TAM:41 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/obj/Debug/netcoreapp3.1/tema5c.csproj.CoreCompileInputs.cache
+./obj/Debug/netcoreapp3.1/tema5c.csprojAssemblyReference.cache, EXT:.cache, TAM:85009 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/obj/Debug/netcoreapp3.1/tema5c.csprojAssemblyReference.cache
+./obj/Debug/netcoreapp3.1/tema5c.pdb, EXT:.pdb, TAM:6240 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/obj/Debug/netcoreapp3.1/tema5c.pdb
+./obj/Debug/netcoreapp3.1/tema5c.dll, EXT:.dll, TAM:14848 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/obj/Debug/netcoreapp3.1/tema5c.dll
+./obj/Debug/netcoreapp3.1/tema5c.csproj.FileListAbsolute.txt, EXT:.txt, TAM:2229 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/obj/Debug/netcoreapp3.1/tema5c.csproj.FileListAbsolute.txt
+./obj/Debug/netcoreapp3.1/tema5c.genruntimeconfig.cache, EXT:.cache, TAM:41 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/obj/Debug/netcoreapp3.1/tema5c.genruntimeconfig.cache
+./classlib/bin/Debug
+./classlib/obj/Debug
+./classlib/bin/Debug/netstandard2.0
+./classlib/bin/Debug/netstandard2.0/classlib.deps.json, EXT:.json, TAM:1337 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/classlib/bin/Debug/netstandard2.0/classlib.deps.json
+./classlib/bin/Debug/netstandard2.0/classlib.dll, EXT:.dll, TAM:5120 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/classlib/bin/Debug/netstandard2.0/classlib.dll
+./classlib/bin/Debug/netstandard2.0/classlib.pdb, EXT:.pdb, TAM:1188 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/classlib/bin/Debug/netstandard2.0/classlib.pdb
+./classlib/obj/Debug/netstandard2.0
+./classlib/obj/Debug/netstandard2.0/classlib.csprojAssemblyReference.cache, EXT:.cache, TAM:62140 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/classlib/obj/Debug/netstandard2.0/classlib.csprojAssemblyReference.cache
+./classlib/obj/Debug/netstandard2.0/classlib.AssemblyInfoInputs.cache, EXT:.cache, TAM:41 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/classlib/obj/Debug/netstandard2.0/classlib.AssemblyInfoInputs.cache
+./classlib/obj/Debug/netstandard2.0/classlib.dll, EXT:.dll, TAM:5120 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/classlib/obj/Debug/netstandard2.0/classlib.dll
+./classlib/obj/Debug/netstandard2.0/classlib.csproj.CoreCompileInputs.cache, EXT:.cache, TAM:41 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/classlib/obj/Debug/netstandard2.0/classlib.csproj.CoreCompileInputs.cache
+./classlib/obj/Debug/netstandard2.0/classlib.assets.cache, EXT:.cache, TAM:192 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/classlib/obj/Debug/netstandard2.0/classlib.assets.cache
+./classlib/obj/Debug/netstandard2.0/classlib.csproj.FileListAbsolute.txt, EXT:.txt, TAM:1028 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/classlib/obj/Debug/netstandard2.0/classlib.csproj.FileListAbsolute.txt
+./classlib/obj/Debug/netstandard2.0/classlib.AssemblyInfo.cs, EXT:.cs, TAM:974 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/classlib/obj/Debug/netstandard2.0/classlib.AssemblyInfo.cs
+./classlib/obj/Debug/netstandard2.0/classlib.pdb, EXT:.pdb, TAM:1188 Bytes, PATH:/home/alex/Escritorio/FormacionBeSoft/Ejercicios/tema5c/classlib/obj/Debug/netstandard2.0/classlib.pdb

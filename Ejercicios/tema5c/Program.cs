@@ -6,6 +6,7 @@ using System.Linq;
 using classlib;
 using vendLib;
 using rastlib; 
+using genProjectLib; 
 
 namespace tema5c
 {
@@ -87,9 +88,9 @@ namespace tema5c
             */
             //rastreador.getInfoFolder();
             
+            /*
             long ticksFirstMethod = 0;
-
-            
+             
             var primerMethod = System.Diagnostics.Stopwatch.StartNew();
             
             Rastreador rastreador = new Rastreador();
@@ -100,6 +101,10 @@ namespace tema5c
             WriteLine($"Total archivos: {rastreador.getNumFiles()}"); 
             WriteLine($"Total tam: {rastreador.getTam()}"); 
             WriteLine($"Tiempo en ticks:{ticksFirstMethod}");
+            */  
+
+            GeneradorPro newProject = new GeneradorPro("pruebaGenerador", "pruebaClases"); 
+            newProject.crealo(); 
         }    
     }
 }

@@ -9,16 +9,18 @@ namespace rastlib
     {
         private string path = "./"; 
         private string nombreFichero = "infoDirectory.txt";
-        private List<string> lineas = new List<string>();
+
+        private List<string> todo = new List<string>();
 
         private double totalTam = 0; 
-        public Rastreador()
-        {}
+        private double totalArchivos = 0; 
 
+        public Rastreador() {}
         public string Path { get => path; set => path = value; }
         public string NombreFichero { get => nombreFichero; set => nombreFichero = value; }
-        public List<string> Linea { get => lineas; set => lineas = value; }
-        public double TotalTam { get => totalTam; set => totalTam = value; }
+        public double TotalTam { get => TotalTam1; set => TotalTam1 = value; }
+        public double TotalArchivos { get => totalArchivos; set => totalArchivos = value; }
+        public double TotalTam1 { get => totalTam; set => totalTam = value; }
 
         public bool saveInfo(string nombreFichero, List<string> lista)
         {
@@ -37,17 +39,26 @@ namespace rastlib
         
         public void getInfoFolder()
         {
-            string[] allfiles = Directory.GetFiles(Path, "*.*", SearchOption.AllDirectories);
+            string[] AllDirectories = Directory.GetDirectories(Path, "*.*", SearchOption.AllDirectories);
 
-            foreach(var file in allfiles)
+            foreach(var directory in AllDirectories)
             {
-                FileInfo info = new FileInfo(file);
-                
-                string lineaEscribir = file + ",ext:" + info.Extension + ", tam:" + info.Length + "Bytes, path:" + info.FullName; 
-                lineas.Add(lineaEscribir);
-                //WriteLine(lineaEscribir);   
+                string lineaEscribir = directory;
+                todo.Add(lineaEscribir); 
+                TotalArchivos ++;
 
-                totalTam += info.Length;  
+                string[] allfiles = Directory.GetFiles(lineaEscribir, "*.*", SearchOption.TopDirectoryOnly);
+                foreach(var file in allfiles)
+                {
+                    FileInfo info = new FileInfo(file);
+                
+                    string nlineaEscribir = file + ", EXT:" + info.Extension + ", TAM:" + info.Length + " Bytes, PATH:" + info.FullName; 
+                    
+                    todo.Add(nlineaEscribir);
+            
+                    TotalTam1 += info.Length;  
+                    TotalArchivos ++;
+                }
             }
         }
 
@@ -57,12 +68,12 @@ namespace rastlib
             string namePath = ReadLine();
             path = namePath;
             getInfoFolder(); 
-            saveInfo(nombreFichero, lineas);
+            saveInfo(nombreFichero, todo);
         }
 
-        public int getNumFiles()
+        public double getNumFiles()
         {
-            return lineas.Capacity; 
+            return TotalArchivos; 
         }
 
         public double getTam()
