@@ -9,6 +9,8 @@ namespace genProjectLib
 {
     public class GeneradorPro
     {
+        private const string nombreScriptNewConsole = "scriptNewConsole";
+        private const string nombreScriptNewClassLib = "scriptNewLib";
         private string nombreProyecto;
         private string nombreArchClases; 
         private string rutaProyecto; 
@@ -47,7 +49,7 @@ namespace genProjectLib
             {   
                 ProcessStartInfo proc_start_info = new ProcessStartInfo();
                 proc_start_info.FileName = "bash";
-                proc_start_info.Arguments = "scriptNewConsole " + rutaProyecto;
+                proc_start_info.Arguments = nombreScriptNewConsole + " " + rutaProyecto;
                 // -c allows to wait the command to be execute and exit
 
                 proc_start_info.RedirectStandardOutput = true; //cambiar a true para que no salga nada 
@@ -70,7 +72,7 @@ namespace genProjectLib
                     //en lib, lanzar "dotnet new classLib" 
                     ProcessStartInfo proc_start_info = new ProcessStartInfo();
                     proc_start_info.FileName = "bash";
-                    proc_start_info.Arguments = "scriptNewLib " + rutaClassLib;
+                    proc_start_info.Arguments = nombreScriptNewClassLib + " " + rutaClassLib;
                     // -c allows to wait the command to be execute and exit
 
                     proc_start_info.RedirectStandardOutput = true; //cambiar a true para que no salga nada 
